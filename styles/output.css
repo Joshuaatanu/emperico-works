@@ -2019,6 +2019,10 @@ video {
   font-size: 12.5px;
 }
 
+.text-\[13px\] {
+  font-size: 13px;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -2125,6 +2129,18 @@ video {
 
 .text-\[13x\] {
   color: 13x;
+}
+
+.text-\[11x\] {
+  color: 11x;
+}
+
+.text-\[5x\] {
+  color: 5x;
+}
+
+.text-\[x\] {
+  color: x;
 }
 
 .underline {
